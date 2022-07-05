@@ -5,7 +5,7 @@
   </head>
   <hr/>
   <body>
-    <img src="https://www.quickobook.com/uploads/media/5fd4697dec75b.jpg" height="75%" width="75%" alt=""/>
+    <img src="https://www.quickobook.com/uploads/media/5fd4697dec75b.jpg" height="85%" width="85%" alt=""/>
     
   </body>
   </html>
