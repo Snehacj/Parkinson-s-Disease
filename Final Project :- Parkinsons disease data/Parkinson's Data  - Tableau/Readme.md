@@ -8,4 +8,4 @@ This Directory contains the **Tableau dashboard**.
 * The insights about the **The tests of Parkinsons disease**.
 * Dashboard is interactive to give the information about the Parkinsons data.
   
-<a href="https://public.tableau.com/app/profile/sneha.c.j/viz/ParkinsonsDataAnalysing"><br/>Parkinson's Dsshboard</a>
+<a href="https://public.tableau.com/app/profile/sneha.c.j/viz/ParkinsonsDataAnalysing"><br/>Parkinson's Dashboard</a>
