@@ -1,6 +1,6 @@
 <html>
   <head>
-    <h1>PARKINSON'S DISEASE - MACHINE LEARNING MODELS</h1>
+    <h1>PARKINSON'S DISEASE - PREDICTION</h1>
     <b>-Built model to predict if a person has parkinson's disease or not</b>
   </head>
   <hr/>
