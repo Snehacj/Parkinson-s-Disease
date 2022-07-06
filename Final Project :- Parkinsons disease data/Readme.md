@@ -182,12 +182,26 @@
   <li>Seaborn</li>
 </ul>
 </p1>
-    
+ <h2>
+    Table of Content
+  </h2>
+ <p1>
+ <ul>
+  <li>Importing libraries</li>
+  <li>Reading data</li>
+  <li>Cleaning data</li>
+  <li>Exploring data</li>
+  <li>Extracting data</li>
+  <li>Visualising data</li>
+  <li>Creating models</li>
+  <li>Conclusion</li>
+</ul>
+</p1>   
   
  
  
   <h2>
-   Approach
+   ML Approach
   </h2>
   <p1>
 The aim is to create a model that helps the users to apply machine learning approach to predict the parkinson's disease have or not. Here, the models used are
@@ -198,16 +212,25 @@ The aim is to create a model that helps the users to apply machine learning appr
   <li>Random Forest</li>
 </ul>
   </p1>
+  <h2>
+    ML Approach Functions
+  </h2>
+ <p1>
+ <ul>
+  <li>Model fitting</li>
+  <li>Predicting using model</li>
+  <li>Accuracy score</li>
+  <li>Confusion matrix</li>
+  <li>Classification Report</li>
+</ul>
+</p1>   
   
+ 
   
  <h2>   
   Conclusion
  </h2>
 <p1>
-<ul>
-  <li>Time taken is maximum for Random forest and minimum for Naive Bayes</li>
-  <li>Accuracy is maximum for Naive Bayes and minimum for KNN</li>
-</ul>
   <table>
   <tr>
     <th>Model</th>
