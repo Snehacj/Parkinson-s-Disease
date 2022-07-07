@@ -263,7 +263,12 @@ The aim is to create a model that helps the users to apply machine learning appr
    
     
   </tr>
-  
+  <tr>
+    <td>Guassian NB</td>
+    <td>66%</td>
+   
+    
+  </tr>
   </table>
   <ul>
   <li>
