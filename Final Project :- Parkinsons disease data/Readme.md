@@ -208,7 +208,7 @@ The aim is to create a model that helps the users to apply machine learning appr
 <ul>
   <li>Logistic Regression</li>
   <li>Random Forest</li>
-  <li>SVMs</li>
+  <li>SVM</li>
   <li>KNN</li>
   <li>Guassian NB</li>
   
