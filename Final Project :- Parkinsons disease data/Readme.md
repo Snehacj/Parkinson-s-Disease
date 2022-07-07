@@ -207,9 +207,11 @@
 The aim is to create a model that helps the users to apply machine learning approach to predict the parkinson's disease have or not. Here, the models used are
 <ul>
   <li>Logistic Regression</li>
-  <li>Naive Bayes</li>
-  <li>KNN</li>
   <li>Random Forest</li>
+  <li>SVMs</li>
+  <li>KNN</li>
+  <li>Guassian NB</li>
+  
 </ul>
   </p1>
   <h2>
